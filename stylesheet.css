@@ -1,0 +1,21 @@
+body {
+    display: inline-block;
+    padding: 50px;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.reason {
+    display: inline-block;
+    border: solid; 
+    border-width: 2px;
+    border-color: coral;
+    padding: 20px 30px 20px;
+
+}
+
+img {
+    border-radius: 25px;
+}
